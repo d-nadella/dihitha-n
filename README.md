@@ -42,7 +42,7 @@
 <p align="center">
   📫 <strong>Connect with me:</strong><br>
   <a href="https://www.linkedin.com/in/dihitha-nadella/" target="_blank">LinkedIn</a> | 
-  <a href="https://github.com/dihitha-Nadella">GitHub</a> | 
+  <a href="https://github.com/dihitha-n">GitHub</a> | 
   <a href="mailto:dihithanadella98@gmail.com">Email</a>
 </p>
 
