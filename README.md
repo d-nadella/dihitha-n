@@ -35,7 +35,7 @@
 - **Unity Intern** – Cusmat Technologies (December 2018 - January 2019)
 - **Internet of Things Intern** – Smart Bridge (November 2017 - December 2017)
   
-**Well my resume highlights all the key details – my qualifications, experience, and maybe even a hint of humor. I'll let you decide if that makes me a great fit. Either way, it’s worth giving me a shot, right?
+**Well my resume highlights all the key details – my qualifications, experience, and maybe even a hint of humor. Okay, maybe not the last one, but it's worth a shot, right? I'll let you decide if that makes me a great fit.
 
 🌱 **Currently Exploring:** Cloud Data Quality, AI-Powered Automation, and Machine Learning.
 
