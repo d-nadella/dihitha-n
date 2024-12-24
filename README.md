@@ -5,7 +5,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dihitha-sai-nadella/">
+  <a href="https://www.linkedin.com/in/dihitha-nadella/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="dihithanadella98@gmail.com">
@@ -41,13 +41,13 @@
 
 <p align="center">
   📫 <strong>Connect with me:</strong><br>
-  <a href="https://linkedin.com/in/dihitha-sai-nadella" target="_blank">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/dihitha-nadella/" target="_blank">LinkedIn</a> | 
   <a href="https://github.com/dihitha-Nadella">GitHub</a> | 
   <a href="mailto:dihithanadella98@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  🔍 <i>Check out my repositories to see my hands-on projects and contributions!</i>
+  👇 <i>Check out my repositories to see my hands-on projects and contributions!</i>
 </p>
 <br>
 	
